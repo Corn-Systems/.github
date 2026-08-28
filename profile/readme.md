@@ -59,6 +59,8 @@ Pull requests are welcome across all active repositories. If you find a bug, ope
 ## 📬 Contact & Links
 
 - **GitHub Org:** [github.com/Corn-Systems](https://github.com/Corn-Systems)
+- **Instagram:** [@cornsystemsdev](https://www.instagram.com/cornsystemsdev/)
+- **Email:** [cornsystemsdev@gmail.com](mailto:cornsystemsdev@gmail.com)
 
 ---
 
