@@ -7,6 +7,7 @@
 [![GitHub Org](https://img.shields.io/badge/GitHub-Corn--Systems-yellow?style=flat-square&logo=github)](https://github.com/Corn-Systems)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![Made with C#](https://img.shields.io/badge/Made%20with-C%23-512BD4?style=flat-square&logo=dotnet)](https://dotnet.microsoft.com)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X61YES7W)
 
 </div>
 
