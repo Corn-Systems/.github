@@ -26,9 +26,9 @@ Every project here is built with real use cases in mind and shipped with the com
 | Project | Description | Status |
 |---|---|---|
 | [**CornTools**](https://github.com/Corn-Systems/CornTools) | Unified launcher & manager for all Corn Systems tools | 🔧 In Development |
-| [**CornWatch**](https://github.com/Corn-Systems/CornWatch) | System health dashboard — CPU, GPU, and beyond | 🔧 In Development |
 | [**Win11 Optimizer**](https://github.com/Corn-Systems/win11op) | Debloat and optimize Windows 11 with one click | ✅ Live |
 | [**CornDownloader**](https://github.com/Corn-Systems/CornDownloader) | Auto-downloader for essential apps on fresh Windows installs | ✅ Live |
+| [**CornWatch**](https://github.com/Corn-Systems/CornWatch) | System health dashboard — CPU, GPU, and beyond | 🔧 In Development |
 
 ---
 
