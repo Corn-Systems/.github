@@ -2,7 +2,7 @@
 
 # 🌽 Corn Systems
 
-### *Open source software, built right.*
+Free, open source tools for Windows.
 
 [![GitHub Org](https://img.shields.io/badge/GitHub-Corn--Systems-yellow?style=flat-square&logo=github)](https://github.com/Corn-Systems)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
@@ -13,60 +13,51 @@
 
 ---
 
-## 🌽 What is Corn Systems?
+## About
 
-Corn Systems is an independent software organization building practical, no-nonsense tools for Windows power users. We believe great software should be **free, open, and actually useful** — no bloat, no dark patterns, no paywalls.
+Corn Systems is a small independent group making Windows tools that do what they say and nothing else. No bloat, no tracking, no paywalls. Everything here is free and open source.
 
-Every project here is built with real use cases in mind and shipped with the community in focus.
+We build the stuff we actually want to use, then put it out there for anyone who wants it.
+
+Outside of Windows tools, we also make Minecraft modpacks. Those live on [Modrinth](https://modrinth.com/organization/corn-co).
 
 ---
 
-## 🛠️ Projects
+## Projects
 
-| Project | Description | Status |
+| Project | What it does | Status |
 |---|---|---|
-| [**CornTools**](https://github.com/Corn-Systems/CornTools) | Unified launcher & manager for all Corn Systems tools | 🔧 In Development |
-| [**Win11 Optimizer**](https://github.com/Corn-Systems/win11op) | Debloat and optimize Windows 11 with one click | ✅ Live |
-| [**CornDownloader**](https://github.com/Corn-Systems/CornDownloader) | Auto-downloader for essential apps on fresh Windows installs | ✅ Live |
-| [**CornWatch**](https://github.com/Corn-Systems/CornWatch) | System health dashboard — CPU, GPU, and beyond | 🔧 In Development |
+| [CornTools](https://github.com/Corn-Systems/CornTools) | One launcher to install and manage all the Corn Systems tools | In development |
+| [Win11 Optimizer](https://github.com/Corn-Systems/win11op) | Debloat and tune Windows 11 in one click | Released |
+| [CornDownloader](https://github.com/Corn-Systems/CornDownloader) | Installs your essential apps on a fresh Windows setup | Released |
+| [CornWatch](https://github.com/Corn-Systems/CornWatch) | System health dashboard for CPU, GPU, and more | In development |
 
 ---
 
-## 💡 Philosophy
+## Modpacks
 
-> Open source isn't just a license — it's a commitment to the people who use your software.
-
-Corn Systems was founded on a simple idea: tools that help people shouldn't cost them anything. We're rooted in the spirit of the early open source community and we're keeping that alive, one project at a time.
-
----
-
-## 🚀 Getting Started
-
-Corn Systems tools target **Windows 10/11** and are built with **C# / .NET**. Check the individual project READMEs for install instructions and exact framework versions.
-
-```bash
-# Most tools are distributed as standalone .exe releases
-# No install required — just download and run
-```
+| Modpack | What it does | Status |
+|---|---|---|
+| [BareBones](https://modrinth.com/organization/corn-co) | Fabric modpack focused on FPS, with only the bare minimum installed | Restarting |
+| [Lively](https://modrinth.com/organization/corn-co) | Quality of life modpack for Fabric, built on top of BareBones | Restarting |
 
 ---
 
-## 🤝 Contributing
+## Why open source
 
-Pull requests are welcome across all active repositories. If you find a bug, open an issue. If you want to build something with us, reach out.
+Software that helps people shouldn't cost them anything, and you should be able to read the code of anything you run on your own machine. That's the whole idea behind our projects.
 
 ---
 
-## 📬 Contact & Links
+## Getting started
 
-- **GitHub Org:** [github.com/Corn-Systems](https://github.com/Corn-Systems)
+Everything targets Windows 10 and 11 and is written in C# on .NET. Most tools ship as a standalone `.exe` on the Releases page, so you can just download and run it. Each repo's README has the details, including which .NET version it needs.
+
+---
+
+## Links
+
+- **GitHub:** [github.com/Corn-Systems](https://github.com/Corn-Systems)
+- **Modrinth:** [modrinth.com/organization/corn-co](https://modrinth.com/organization/corn-co)
 - **Instagram:** [@cornsystemsdev](https://www.instagram.com/cornsystemsdev/)
 - **Email:** [cornsystemsdev@gmail.com](mailto:cornsystemsdev@gmail.com)
-
----
-
-<div align="center">
-
-*Built with care. Released for free. Always open source.*
-
-</div>
